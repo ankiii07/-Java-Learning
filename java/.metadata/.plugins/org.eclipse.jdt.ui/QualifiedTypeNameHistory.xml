@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="pakeges.models.Student"/>
+    <fullyQualifiedTypeName name="keyword.StaticNestedClass.B"/>
+    <fullyQualifiedTypeName name="keyword.StaticNestedClass.C"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="pakeges.models.Teacher"/>
+    <fullyQualifiedTypeName name="java.io.InputStream"/>
+    <fullyQualifiedTypeName name="java.io.Reader"/>
+    <fullyQualifiedTypeName name="com.sun.tools.javac.util.List"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="com.sun.org.apache.bcel.internal.classfile.Node"/>
+    <fullyQualifiedTypeName name="org.w3c.dom.Node"/>
+    <fullyQualifiedTypeName name="java.io.BufferedWriter"/>
+    <fullyQualifiedTypeName name="java.util.stream.Stream"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="java.io.FileWriter"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.util.LinkedList"/>
+    <fullyQualifiedTypeName name="java.io.InputStreamReader"/>
+    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="java.util.Vector"/>
+    <fullyQualifiedTypeName name="java.util.Stack"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+</qualifiedTypeNameHistroy>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;sortingAlgo&apos; to &apos;Array/src&apos;&#x0D;&#x0A;- Original project: &apos;Sorting&apos;&#x0D;&#x0A;- Destination element: &apos;Array/src&apos;&#x0D;&#x0A;- Original element: &apos;Sorting/src/sortingAlgo&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" destination="=Array/src" element1="/src&lt;sortingAlgo" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1620588969373" version="1.0"/>
+</session>
